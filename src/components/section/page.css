@@ -1,0 +1,15 @@
+.logo{
+    width:25vh;
+    margin:2rem;
+}
+.content{
+    width:80vh;
+    margin:0 auto;
+}
+body{
+    font-family:cursive;
+}
+h4{
+    margin:0;
+    font-weight:500;
+}
